@@ -1,3 +1,4 @@
+<img width="736" height="1307" alt="966092557588286360" src="https://github.com/user-attachments/assets/07ae1ab0-38e2-4829-9dc0-58d0d5638ddb" />
  # yabsera-bmw
 
 What is Linux
