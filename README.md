@@ -6,8 +6,8 @@
     <h4>Heading</h4>
     <h5>Heading</h5>
     <h6>Heading</h6>
-
     <p>This is the first HTML code.</p>
     <a href="https://youtube.com/@DGtechet">DG TECH</a>
 </body>
-</html>
+<  /html>
+
